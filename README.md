@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-<!--
 I am a professional Data Analyst working on diverse problem statements to gain insights.
+
 This is still a work in progress...
-But you can still connect with me
+
+But you can still connect with me on LinkedIN.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokhul-mg/)
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
