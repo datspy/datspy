@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 <!--
-**datspy/datspy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a professional Data Analyst working on diverse problem statements to gain insights.
+This is still a work in progress...
+But you can still connect with me
 
-Here are some ideas to get you started:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokhul-mg/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
