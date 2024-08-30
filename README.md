@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a professional Data Analyst working on diverse problem statements to gain insights.
+I am a Senior Data Analyst passionate about solving problems through data.
+My expertise lies in building DQ pipelines, Data modelling, Data mining, Data visualization, AB Testing & product analysis.
 
-This is still a work in progress...
 
-But you can still connect with me on LinkedIN.
+Feel free to connect with me on LinkedIN.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokhul-mg/)
 
