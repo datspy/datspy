@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I am a Senior Data Analyst passionate about solving problems through data.
-My expertise lies in building DQ pipelines, Data modelling, Data mining, Data visualization, AB Testing & product analysis.
+I am a Senior Data professional passionate about solving problems through data.
+I build end-to-end data-to-decision systems.
+My expertise lies in building Data pipelines, Data modelling, Data mining, Data visualization, AB Testing & Product Analytics.
 
 
 Feel free to connect with me on LinkedIN.
