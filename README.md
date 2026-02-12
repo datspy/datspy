@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Senior Data professional passionate about solving problems through data.
+I am a Senior Data professional passionate about solving Data Engineering problems and also answering Business Questions through data.
 I build end-to-end data-to-decision systems.
 My expertise lies in building Data pipelines, Data modelling, Data mining, Data visualization, AB Testing & Product Analytics.
 
